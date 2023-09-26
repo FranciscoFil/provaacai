@@ -1,0 +1,40 @@
+.logo{
+    border-radius: 10px 45px;
+}
+.texto{
+    color: #8a2be2;
+}
+
+
+h1{
+    color: blueviolet;
+}
+.teste{
+    background-image: url(fashion.png);
+}
+.euzinho{
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.euzinho img:hover{
+    transform: scale(1.1);
+}
+.euzinho img{
+    border: 5px solid blueviolet;
+    border-radius: 10500px;
+    border-style: outset;
+}
+#nome{
+    
+    text-align: center;
+}
+
+.paragrafo{
+    text-align: justify;
+    margin-top: 15px;
+    border: 2px solid blueviolet;
+    border-radius: 40px;
+    padding: 15px;
+    box-shadow: 1px 1px 10px yellow;
+}
